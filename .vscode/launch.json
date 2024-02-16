@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome with Live Server",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://192.168.0.108:5500", 
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
